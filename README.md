@@ -1,3 +1,3 @@
-# web1
+## 생활코딩 HTML 강의
 
-생활코딩
+https://jungminji0215.github.io/web1/
